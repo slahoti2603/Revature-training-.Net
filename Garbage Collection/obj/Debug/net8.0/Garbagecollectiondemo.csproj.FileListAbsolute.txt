@@ -1,0 +1,15 @@
+C:\Users\saksh\OneDrive\Desktop\Revature-Training .Net\Garbage Collection\obj\Debug\net8.0\Garbagecollectiondemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saksh\OneDrive\Desktop\Revature-Training .Net\Garbage Collection\obj\Debug\net8.0\Garbagecollectiondemo.AssemblyInfoInputs.cache
+C:\Users\saksh\OneDrive\Desktop\Revature-Training .Net\Garbage Collection\obj\Debug\net8.0\Garbagecollectiondemo.AssemblyInfo.cs
+C:\Users\saksh\OneDrive\Desktop\Revature-Training .Net\Garbage Collection\obj\Debug\net8.0\Garbagecollectiondemo.csproj.CoreCompileInputs.cache
+C:\Users\saksh\OneDrive\Desktop\Revature-Training .Net\Garbage Collection\bin\Debug\net8.0\Garbagecollectiondemo.exe
+C:\Users\saksh\OneDrive\Desktop\Revature-Training .Net\Garbage Collection\bin\Debug\net8.0\Garbagecollectiondemo.deps.json
+C:\Users\saksh\OneDrive\Desktop\Revature-Training .Net\Garbage Collection\bin\Debug\net8.0\Garbagecollectiondemo.runtimeconfig.json
+C:\Users\saksh\OneDrive\Desktop\Revature-Training .Net\Garbage Collection\bin\Debug\net8.0\Garbagecollectiondemo.dll
+C:\Users\saksh\OneDrive\Desktop\Revature-Training .Net\Garbage Collection\bin\Debug\net8.0\Garbagecollectiondemo.pdb
+C:\Users\saksh\OneDrive\Desktop\Revature-Training .Net\Garbage Collection\obj\Debug\net8.0\Garbagecollectiondemo.dll
+C:\Users\saksh\OneDrive\Desktop\Revature-Training .Net\Garbage Collection\obj\Debug\net8.0\refint\Garbagecollectiondemo.dll
+C:\Users\saksh\OneDrive\Desktop\Revature-Training .Net\Garbage Collection\obj\Debug\net8.0\Garbagecollectiondemo.pdb
+C:\Users\saksh\OneDrive\Desktop\Revature-Training .Net\Garbage Collection\obj\Debug\net8.0\Garbagecollectiondemo.genruntimeconfig.cache
+C:\Users\saksh\OneDrive\Desktop\Revature-Training .Net\Garbage Collection\obj\Debug\net8.0\ref\Garbagecollectiondemo.dll
+C:\Users\saksh\OneDrive\Desktop\Revature-Training .Net\Garbage Collection\obj\Debug\net8.0\Garbagecollectiondemo.sourcelink.json
