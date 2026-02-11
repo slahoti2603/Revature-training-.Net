@@ -1,0 +1,15 @@
+C:\Users\saksh\OneDrive\Desktop\Revature-Training .Net\DAY-6\GenericDelegate\bin\Debug\net8.0\GenericDelegate.exe
+C:\Users\saksh\OneDrive\Desktop\Revature-Training .Net\DAY-6\GenericDelegate\bin\Debug\net8.0\GenericDelegate.deps.json
+C:\Users\saksh\OneDrive\Desktop\Revature-Training .Net\DAY-6\GenericDelegate\bin\Debug\net8.0\GenericDelegate.runtimeconfig.json
+C:\Users\saksh\OneDrive\Desktop\Revature-Training .Net\DAY-6\GenericDelegate\bin\Debug\net8.0\GenericDelegate.dll
+C:\Users\saksh\OneDrive\Desktop\Revature-Training .Net\DAY-6\GenericDelegate\bin\Debug\net8.0\GenericDelegate.pdb
+C:\Users\saksh\OneDrive\Desktop\Revature-Training .Net\DAY-6\GenericDelegate\obj\Debug\net8.0\GenericDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saksh\OneDrive\Desktop\Revature-Training .Net\DAY-6\GenericDelegate\obj\Debug\net8.0\GenericDelegate.AssemblyInfoInputs.cache
+C:\Users\saksh\OneDrive\Desktop\Revature-Training .Net\DAY-6\GenericDelegate\obj\Debug\net8.0\GenericDelegate.AssemblyInfo.cs
+C:\Users\saksh\OneDrive\Desktop\Revature-Training .Net\DAY-6\GenericDelegate\obj\Debug\net8.0\GenericDelegate.csproj.CoreCompileInputs.cache
+C:\Users\saksh\OneDrive\Desktop\Revature-Training .Net\DAY-6\GenericDelegate\obj\Debug\net8.0\GenericDelegate.sourcelink.json
+C:\Users\saksh\OneDrive\Desktop\Revature-Training .Net\DAY-6\GenericDelegate\obj\Debug\net8.0\GenericDelegate.dll
+C:\Users\saksh\OneDrive\Desktop\Revature-Training .Net\DAY-6\GenericDelegate\obj\Debug\net8.0\refint\GenericDelegate.dll
+C:\Users\saksh\OneDrive\Desktop\Revature-Training .Net\DAY-6\GenericDelegate\obj\Debug\net8.0\GenericDelegate.pdb
+C:\Users\saksh\OneDrive\Desktop\Revature-Training .Net\DAY-6\GenericDelegate\obj\Debug\net8.0\GenericDelegate.genruntimeconfig.cache
+C:\Users\saksh\OneDrive\Desktop\Revature-Training .Net\DAY-6\GenericDelegate\obj\Debug\net8.0\ref\GenericDelegate.dll

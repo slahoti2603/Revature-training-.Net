@@ -1,0 +1,15 @@
+C:\Users\saksh\OneDrive\Desktop\Revature-Training .Net\DAY-6\Linqdemo\bin\Debug\net8.0\Linqdemo.exe
+C:\Users\saksh\OneDrive\Desktop\Revature-Training .Net\DAY-6\Linqdemo\bin\Debug\net8.0\Linqdemo.deps.json
+C:\Users\saksh\OneDrive\Desktop\Revature-Training .Net\DAY-6\Linqdemo\bin\Debug\net8.0\Linqdemo.runtimeconfig.json
+C:\Users\saksh\OneDrive\Desktop\Revature-Training .Net\DAY-6\Linqdemo\bin\Debug\net8.0\Linqdemo.dll
+C:\Users\saksh\OneDrive\Desktop\Revature-Training .Net\DAY-6\Linqdemo\bin\Debug\net8.0\Linqdemo.pdb
+C:\Users\saksh\OneDrive\Desktop\Revature-Training .Net\DAY-6\Linqdemo\obj\Debug\net8.0\Linqdemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saksh\OneDrive\Desktop\Revature-Training .Net\DAY-6\Linqdemo\obj\Debug\net8.0\Linqdemo.AssemblyInfoInputs.cache
+C:\Users\saksh\OneDrive\Desktop\Revature-Training .Net\DAY-6\Linqdemo\obj\Debug\net8.0\Linqdemo.AssemblyInfo.cs
+C:\Users\saksh\OneDrive\Desktop\Revature-Training .Net\DAY-6\Linqdemo\obj\Debug\net8.0\Linqdemo.csproj.CoreCompileInputs.cache
+C:\Users\saksh\OneDrive\Desktop\Revature-Training .Net\DAY-6\Linqdemo\obj\Debug\net8.0\Linqdemo.sourcelink.json
+C:\Users\saksh\OneDrive\Desktop\Revature-Training .Net\DAY-6\Linqdemo\obj\Debug\net8.0\Linqdemo.dll
+C:\Users\saksh\OneDrive\Desktop\Revature-Training .Net\DAY-6\Linqdemo\obj\Debug\net8.0\refint\Linqdemo.dll
+C:\Users\saksh\OneDrive\Desktop\Revature-Training .Net\DAY-6\Linqdemo\obj\Debug\net8.0\Linqdemo.pdb
+C:\Users\saksh\OneDrive\Desktop\Revature-Training .Net\DAY-6\Linqdemo\obj\Debug\net8.0\Linqdemo.genruntimeconfig.cache
+C:\Users\saksh\OneDrive\Desktop\Revature-Training .Net\DAY-6\Linqdemo\obj\Debug\net8.0\ref\Linqdemo.dll
