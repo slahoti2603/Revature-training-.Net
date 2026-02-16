@@ -1,0 +1,15 @@
+C:\Users\saksh\OneDrive\Desktop\Revature-Training .Net\DAY 7\ExceptionHandling\bin\Debug\net8.0\ExceptionHandling.exe
+C:\Users\saksh\OneDrive\Desktop\Revature-Training .Net\DAY 7\ExceptionHandling\bin\Debug\net8.0\ExceptionHandling.deps.json
+C:\Users\saksh\OneDrive\Desktop\Revature-Training .Net\DAY 7\ExceptionHandling\bin\Debug\net8.0\ExceptionHandling.runtimeconfig.json
+C:\Users\saksh\OneDrive\Desktop\Revature-Training .Net\DAY 7\ExceptionHandling\bin\Debug\net8.0\ExceptionHandling.dll
+C:\Users\saksh\OneDrive\Desktop\Revature-Training .Net\DAY 7\ExceptionHandling\bin\Debug\net8.0\ExceptionHandling.pdb
+C:\Users\saksh\OneDrive\Desktop\Revature-Training .Net\DAY 7\ExceptionHandling\obj\Debug\net8.0\ExceptionHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saksh\OneDrive\Desktop\Revature-Training .Net\DAY 7\ExceptionHandling\obj\Debug\net8.0\ExceptionHandling.AssemblyInfoInputs.cache
+C:\Users\saksh\OneDrive\Desktop\Revature-Training .Net\DAY 7\ExceptionHandling\obj\Debug\net8.0\ExceptionHandling.AssemblyInfo.cs
+C:\Users\saksh\OneDrive\Desktop\Revature-Training .Net\DAY 7\ExceptionHandling\obj\Debug\net8.0\ExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\saksh\OneDrive\Desktop\Revature-Training .Net\DAY 7\ExceptionHandling\obj\Debug\net8.0\ExceptionHandling.sourcelink.json
+C:\Users\saksh\OneDrive\Desktop\Revature-Training .Net\DAY 7\ExceptionHandling\obj\Debug\net8.0\ExceptionHandling.dll
+C:\Users\saksh\OneDrive\Desktop\Revature-Training .Net\DAY 7\ExceptionHandling\obj\Debug\net8.0\refint\ExceptionHandling.dll
+C:\Users\saksh\OneDrive\Desktop\Revature-Training .Net\DAY 7\ExceptionHandling\obj\Debug\net8.0\ExceptionHandling.pdb
+C:\Users\saksh\OneDrive\Desktop\Revature-Training .Net\DAY 7\ExceptionHandling\obj\Debug\net8.0\ExceptionHandling.genruntimeconfig.cache
+C:\Users\saksh\OneDrive\Desktop\Revature-Training .Net\DAY 7\ExceptionHandling\obj\Debug\net8.0\ref\ExceptionHandling.dll
